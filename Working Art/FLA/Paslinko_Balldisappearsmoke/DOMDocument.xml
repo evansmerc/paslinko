@@ -1,0 +1,41 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="175" height="300" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="18.8095968627001" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true">
+     <symbols>
+          <Include href="Layer1.xml" loadImmediate="false" itemID="52d06302-00000253" lastModified="1389395061"/>
+          <Include href="Layer3.xml" loadImmediate="false" itemID="52d06315-0000025c" lastModified="1389389626"/>
+          <Include href="Pin_Disappear_Smoke.xml" loadImmediate="false" itemID="52d07ce8-00000554" lastModified="1389395725"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="24">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pin_Disappear_Smoke" centerPoint3DX="118.95" centerPoint3DY="223.95">
+                                             <matrix>
+                                                  <Matrix tx="118.95" ty="223.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <BlurFilter blurX="15" blurY="15"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="5019" publishTime="1389395608"/>
+          <PublishItem publishSize="5019" publishTime="1389395601"/>
+          <PublishItem publishSize="5019" publishTime="1389395594"/>
+          <PublishItem publishSize="5019" publishTime="1389395581"/>
+          <PublishItem publishSize="5014" publishTime="1389395570"/>
+          <PublishItem publishSize="5014" publishTime="1389395565"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_UI/SpinBar/SPIN_MC" itemID="52b495f1-000008a8" lastModified="1387566886" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="SPIN_MC">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="square" weight="4" joints="miter">
+                            <fill>
+                              <SolidColor color="#0F6D0F"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!98.5 -270.5|-82.5 -270.5!-82.5 -270.5|-82.5 -89.5!-82.5 -89.5|-264.5 -89.5!-264.5 -89.5|-264.5 91.5!-264.5 91.5|-82.5 91.5!-82.5 91.5|-82.5 273.5!-82.5 273.5|98.5 273.5!98.5 273.5|98.5 91.5!98.5 91.5|279.5 91.5!279.5 91.5|279.5 -89.5
+!279.5 -89.5|98.5 -89.5!98.5 -89.5|98.5 -270.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="-4.57763671875e-05" b="-0.0081787109375" c="0.0166015625" d="-9.1552734375e-05" tx="0.35" ty="5.3"/>
+                            </matrix>
+                            <GradientEntry color="#C3C3C3" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!98.5 -270.5S1|-82.5 -270.5!-82.5 -270.5|-82.5 -89.5!-82.5 -89.5|-264.5 -89.5!-264.5 -89.5|-264.5 91.5!-264.5 91.5|-82.5 91.5!-82.5 91.5|-82.5 273.5!-82.5 273.5|98.5 273.5!98.5 273.5|98.5 91.5!98.5 91.5|279.5 91.5!279.5 91.5|279.5 -89.5
+!279.5 -89.5|98.5 -89.5!98.5 -89.5|98.5 -270.5"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="_Ball/Ball" centerPoint3DX="0.05" centerPoint3DY="1">
+                  <matrix>
+                    <Matrix a="0.913330078125" d="0.913330078125" tx="0.05" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-9.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter saturation="-42" hue="43"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

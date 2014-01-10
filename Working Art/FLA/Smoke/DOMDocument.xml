@@ -1,0 +1,175 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#6633CC" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true">
+     <folders>
+          <DOMFolderItem name="_Ball" itemID="52d07dd6-00000623" isExpanded="true"/>
+          <DOMFolderItem name="_MISC elements" itemID="52b49c2a-00000d04"/>
+          <DOMFolderItem name="_UI" itemID="52b3ef8a-00000420"/>
+          <DOMFolderItem name="_UI/SpinBar" itemID="52b49cfa-00000d24"/>
+          <DOMFolderItem name="SMoke_ANI" itemID="52d08004-000006e6" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0000.png" itemID="52d08188-00000729" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0000.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0000.png" bitmapDataHRef="M 2 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0001.png" itemID="52d08188-0000072a" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0001.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0001.png" bitmapDataHRef="M 3 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0002.png" itemID="52d08188-0000072b" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0002.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0002.png" bitmapDataHRef="M 4 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0003.png" itemID="52d08188-0000072c" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0003.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0003.png" bitmapDataHRef="M 5 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0004.png" itemID="52d08188-0000072d" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0004.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0004.png" bitmapDataHRef="M 6 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0005.png" itemID="52d08188-0000072e" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0005.png" sourceLastImported="1389395748" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0005.png" bitmapDataHRef="M 7 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0006.png" itemID="52d08188-0000072f" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0006.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0006.png" bitmapDataHRef="M 8 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0007.png" itemID="52d08188-00000730" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0007.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0007.png" bitmapDataHRef="M 9 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0008.png" itemID="52d08188-00000731" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0008.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0008.png" bitmapDataHRef="M 10 1389395962.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0009.png" itemID="52d08188-00000732" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0009.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0009.png" bitmapDataHRef="M 11 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0010.png" itemID="52d08188-00000733" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0010.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0010.png" bitmapDataHRef="M 12 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0011.png" itemID="52d08188-00000734" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0011.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0011.png" bitmapDataHRef="M 13 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0012.png" itemID="52d08188-00000735" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0012.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0012.png" bitmapDataHRef="M 14 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0013.png" itemID="52d08188-00000736" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0013.png" sourceLastImported="1389395749" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0013.png" bitmapDataHRef="M 15 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0014.png" itemID="52d08188-00000737" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0014.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0014.png" bitmapDataHRef="M 16 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0015.png" itemID="52d08188-00000738" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0015.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0015.png" bitmapDataHRef="M 17 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0016.png" itemID="52d08188-00000739" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0016.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0016.png" bitmapDataHRef="M 18 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0017.png" itemID="52d08188-0000073a" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0017.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0017.png" bitmapDataHRef="M 19 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0018.png" itemID="52d08188-0000073b" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0018.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0018.png" bitmapDataHRef="M 20 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0019.png" itemID="52d08188-0000073c" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0019.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0019.png" bitmapDataHRef="M 21 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0020.png" itemID="52d08188-0000073d" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0020.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0020.png" bitmapDataHRef="M 22 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0021.png" itemID="52d08188-0000073e" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0021.png" sourceLastImported="1389395750" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0021.png" bitmapDataHRef="M 23 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0022.png" itemID="52d08188-0000073f" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0022.png" sourceLastImported="1389395751" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0022.png" bitmapDataHRef="M 24 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0023.png" itemID="52d08189-00000740" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0023.png" sourceLastImported="1389395751" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0023.png" bitmapDataHRef="M 25 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0024.png" itemID="52d08189-00000741" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0024.png" sourceLastImported="1389395751" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0024.png" bitmapDataHRef="M 26 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+          <DOMBitmapItem name="SMoke_ANI/Smoke_0025.png" itemID="52d08189-00000742" sourceExternalFilepath="./LIBRARY/SMoke_ANI/Smoke_0025.png" sourceLastImported="1389395751" sourcePlatform="macintosh" externalFileSize="284" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="SMoke_ANI/Smoke_0025.png" bitmapDataHRef="M 27 1389395963.dat" frameRight="3500" frameBottom="6000"/>
+     </media>
+     <symbols>
+          <Include href="_Ball/Ball.xml" loadImmediate="false" itemID="52b0d8f8-00000276" lastModified="1387321592"/>
+          <Include href="_Ball/Ball_#_MC.xml" loadImmediate="false" itemID="52b3ce78-00000463" lastModified="1387515673"/>
+          <Include href="_Ball/Ball_FULL.xml" loadImmediate="false" itemID="52b1d91f-000002ec" lastModified="1387566818"/>
+          <Include href="_Ball/Ball_Ghost.xml" loadImmediate="false" itemID="52b3d3a3-00000597" lastModified="1389395432"/>
+          <Include href="_Ball/Symbol 1.xml" loadImmediate="false" itemID="52b0d83f-00000269" lastModified="1387387407"/>
+          <Include href="_Ball/Symbol 2.xml" loadImmediate="false" itemID="52b0d85c-0000026e" lastModified="1387322452"/>
+          <Include href="_MISC elements/Ghost_Aura.xml" loadImmediate="false" itemID="52b3d3f8-000005a8" lastModified="1387516920"/>
+          <Include href="_UI/SpinBar/SPIN_MC.xml" loadImmediate="false" itemID="52b495f1-000008a8" lastModified="1387566886"/>
+          <Include href="_UI/SpinBar/Time_MC.xml" loadImmediate="false" itemID="52b49404-0000087c" lastModified="1387566257"/>
+          <Include href="Layer1.xml" loadImmediate="false" itemID="52d06302-00000253" lastModified="1389395061"/>
+          <Include href="Layer2.xml" loadImmediate="false" itemID="52d0630e-00000258" lastModified="1389389094"/>
+          <Include href="Layer3.xml" loadImmediate="false" itemID="52d06315-0000025c" lastModified="1389389626"/>
+          <Include href="Pin_Disappear_Smoke.xml" loadImmediate="false" itemID="52d07ce8-00000554" lastModified="1389396226"/>
+          <Include href="Smoke.xml" loadImmediate="false" itemID="52d08028-000006e8" lastModified="1389396063"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="59">
+               <layers>
+                    <DOMLayer name="Layer 10" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pin_Disappear_Smoke" centerPoint3DX="293.35" centerPoint3DY="218.7">
+                                             <matrix>
+                                                  <Matrix tx="293.35" ty="218.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <BlurFilter/>
+                                             </filters>
+                                             <color>
+                                                  <Color alphaMultiplier="0.69921875"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" duration="33" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Smoke" color="#FF4F4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="26" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="26" duration="33" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ball" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Ball/Ball_FULL" symbolType="graphic" firstFrame="54" loop="single frame">
+                                             <matrix>
+                                                  <Matrix tx="268.8" ty="204.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Ball/Ball_FULL" symbolType="graphic" firstFrame="54" loop="single frame">
+                                             <matrix>
+                                                  <Matrix a="1.48881530761719" d="1.48881530761719" tx="268.8" ty="204.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Ball/Ball_FULL" symbolType="graphic" firstFrame="54" loop="single frame">
+                                             <matrix>
+                                                  <Matrix a="0.155197143554688" d="0.155197143554688" tx="268.8" ty="204.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" duration="18" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="26" duration="33" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="6251" publishTime="1389396354"/>
+          <PublishItem publishSize="6244" publishTime="1389396339"/>
+          <PublishItem publishSize="6244" publishTime="1389396329"/>
+          <PublishItem publishSize="6242" publishTime="1389396311"/>
+          <PublishItem publishSize="6044" publishTime="1389396261"/>
+          <PublishItem publishSize="6041" publishTime="1389396241"/>
+          <PublishItem publishSize="6044" publishTime="1389396227"/>
+          <PublishItem publishSize="6060" publishTime="1389396194"/>
+          <PublishItem publishSize="6060" publishTime="1389396189"/>
+          <PublishItem publishSize="6060" publishTime="1389396184"/>
+          <PublishItem publishSize="6060" publishTime="1389396178"/>
+          <PublishItem publishSize="2097" publishTime="1389396047"/>
+          <PublishItem publishSize="6458" publishTime="1389395529"/>
+          <PublishItem publishSize="5030" publishTime="1389395254"/>
+          <PublishItem publishSize="5030" publishTime="1389395244"/>
+          <PublishItem publishSize="5028" publishTime="1389395230"/>
+          <PublishItem publishSize="5016" publishTime="1389395099"/>
+          <PublishItem publishSize="5048" publishTime="1389395089"/>
+          <PublishItem publishSize="5028" publishTime="1389395079"/>
+          <PublishItem publishSize="3996" publishTime="1389394804"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_UI/SpinBar/Time_MC" itemID="52b49404-0000087c" lastModified="1387566257" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Time_MC">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#232425"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!280 -283S2[395 -167 395 -4!395 -4[395 159 280 274!280 274[165 389 2 389!2 389[-162 389 -276 274!-276 274[-391 159 -391 -4!-391 -4[-391 -167 -276 -283!-276 -283[-162 -397 2 -397!2 -397[165 -397 280 -283"/>
+                        <Edge cubics="!2 -397(;111,-397 203,-359 280,-283q2 -397Q165 -397q280 -283);"/>
+                        <Edge cubics="!280 -283(;357,-206 395,-113 395,-4q280 -283Q395 -167q395 -4);"/>
+                        <Edge cubics="!-391 -4(;-391,-113 -353,-206 -276,-283q-391 -4Q-391 -167q-276 -283);"/>
+                        <Edge cubics="!280 274(;203,351 111,389 2,389q280 274Q165 389q2 389);"/>
+                        <Edge cubics="!2 389(;-107,389 -200,351 -276,274q2 389Q-162 389q-276 274);"/>
+                        <Edge cubics="!-276 -283(;-200,-359 -107,-397 2,-397q-276 -283Q-162 -397q2 -397);"/>
+                        <Edge cubics="!-276 274(;-353,197 -391,105 -391,-4q-276 274Q-391 159q-391 -4);"/>
+                        <Edge cubics="!395 -4(;395,105 357,197 280,274q395 -4Q395 159q280 274);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#EC2525"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!133 -157|2 3"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#FFFFFF"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!2 9/-282 9"/>
+                        <Edge cubics="!2 9(;2,9 -282,9 -282,9p2 9q-282 9);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="4">
+                            <fill>
+                              <SolidColor color="#FFD934"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!395 -4[395 159 280 274!280 274[165 389 2 389!2 389[-162 389 -276 274!-276 274[-391 159 -391 -4!-391 -4[-391 -167 -276 -283!-276 -283[-162 -397 2 -397!2 -397[165 -397 280 -283!280 -283[395 -167 395 -4"/>
+                        <Edge cubics="!2 -397(;111,-397 203,-359 280,-283q2 -397Q165 -397q280 -283);"/>
+                        <Edge cubics="!280 -283(;357,-206 395,-113 395,-4q280 -283Q395 -167q395 -4);"/>
+                        <Edge cubics="!-391 -4(;-391,-113 -353,-206 -276,-283q-391 -4Q-391 -167q-276 -283);"/>
+                        <Edge cubics="!280 274(;203,351 111,389 2,389q280 274Q165 389q2 389);"/>
+                        <Edge cubics="!2 389(;-107,389 -200,351 -276,274q2 389Q-162 389q-276 274);"/>
+                        <Edge cubics="!-276 -283(;-200,-359 -107,-397 2,-397q-276 -283Q-162 -397q2 -397);"/>
+                        <Edge cubics="!-276 274(;-353,197 -391,105 -391,-4q-276 274Q-391 159q-391 -4);"/>
+                        <Edge cubics="!395 -4(;395,105 357,197 280,274q395 -4Q395 159q280 274);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

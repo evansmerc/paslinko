@@ -1,0 +1,75 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#6633CC" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true">
+     <folders>
+          <DOMFolderItem name="_Ball" itemID="52d07dd6-00000623" isExpanded="true"/>
+          <DOMFolderItem name="_MISC elements" itemID="52b49c2a-00000d04"/>
+          <DOMFolderItem name="_UI" itemID="52b3ef8a-00000420"/>
+          <DOMFolderItem name="_UI/SpinBar" itemID="52b49cfa-00000d24"/>
+     </folders>
+     <symbols>
+          <Include href="_Ball/Ball.xml" loadImmediate="false" itemID="52b0d8f8-00000276" lastModified="1387321592"/>
+          <Include href="_Ball/Ball_#_MC.xml" loadImmediate="false" itemID="52b3ce78-00000463" lastModified="1387515673"/>
+          <Include href="_Ball/Ball_FULL.xml" loadImmediate="false" itemID="52b1d91f-000002ec" lastModified="1387566818"/>
+          <Include href="_Ball/Ball_Ghost.xml" loadImmediate="false" itemID="52b3d3a3-00000597" lastModified="1389395432"/>
+          <Include href="_Ball/Symbol 1.xml" loadImmediate="false" itemID="52b0d83f-00000269" lastModified="1387387407"/>
+          <Include href="_Ball/Symbol 2.xml" loadImmediate="false" itemID="52b0d85c-0000026e" lastModified="1387322452"/>
+          <Include href="_MISC elements/Ghost_Aura.xml" loadImmediate="false" itemID="52b3d3f8-000005a8" lastModified="1387516920"/>
+          <Include href="_UI/SpinBar/SPIN_MC.xml" loadImmediate="false" itemID="52b495f1-000008a8" lastModified="1387566886"/>
+          <Include href="_UI/SpinBar/Time_MC.xml" loadImmediate="false" itemID="52b49404-0000087c" lastModified="1387566257"/>
+          <Include href="Layer1.xml" loadImmediate="false" itemID="52d06302-00000253" lastModified="1389395061"/>
+          <Include href="Layer2.xml" loadImmediate="false" itemID="52d0630e-00000258" lastModified="1389389094"/>
+          <Include href="Layer3.xml" loadImmediate="false" itemID="52d06315-0000025c" lastModified="1389389626"/>
+          <Include href="Pin_Disappear_Smoke.xml" loadImmediate="false" itemID="52d07ce8-00000554" lastModified="1389395199"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Smoke" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="21" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ball" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Ball/Ball_FULL" symbolType="graphic" firstFrame="54" loop="single frame">
+                                             <matrix>
+                                                  <Matrix tx="268.8" ty="204.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-18.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="6458" publishTime="1389395529"/>
+          <PublishItem publishSize="5030" publishTime="1389395254"/>
+          <PublishItem publishSize="5030" publishTime="1389395244"/>
+          <PublishItem publishSize="5028" publishTime="1389395230"/>
+          <PublishItem publishSize="5016" publishTime="1389395099"/>
+          <PublishItem publishSize="5048" publishTime="1389395089"/>
+          <PublishItem publishSize="5028" publishTime="1389395079"/>
+          <PublishItem publishSize="3996" publishTime="1389394804"/>
+          <PublishItem publishSize="3999" publishTime="1389394797"/>
+          <PublishItem publishSize="3997" publishTime="1389394792"/>
+          <PublishItem publishSize="3994" publishTime="1389394784"/>
+          <PublishItem publishSize="4878" publishTime="1389394778"/>
+          <PublishItem publishSize="3996" publishTime="1389394766"/>
+          <PublishItem publishSize="1994" publishTime="1389394760"/>
+          <PublishItem publishSize="1987" publishTime="1389394756"/>
+          <PublishItem publishSize="1997" publishTime="1389394745"/>
+          <PublishItem publishSize="2053" publishTime="1389394735"/>
+          <PublishItem publishSize="2022" publishTime="1389394730"/>
+          <PublishItem publishSize="2079" publishTime="1389394725"/>
+          <PublishItem publishSize="2017" publishTime="1389394715"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,153 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pin_Disappear_Smoke" itemID="52d07ce8-00000554" lastModified="1389395725">
+  <timeline>
+    <DOMTimeline name="Pin_Disappear_Smoke" currentFrame="22">
+      <layers>
+        <DOMLayer name="Layer 6 copy" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer3">
+                  <matrix>
+                    <Matrix tx="-18.05" ty="-22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25"/>
+                    <GlowFilter blurX="25" blurY="25" color="#FFFFFF" inner="true" knockout="true" quality="2"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer3">
+                  <matrix>
+                    <Matrix tx="-18.05" ty="-22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="10" blurY="10"/>
+                    <GlowFilter blurX="40" blurY="40" color="#FFFFFF" inner="true" knockout="true" quality="2" strength="2.25"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer3">
+                  <matrix>
+                    <Matrix tx="-18.05" ty="-22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="10" blurY="10"/>
+                    <GlowFilter blurX="55" blurY="55" color="#FFFFFF" inner="true" knockout="true" quality="2" strength="3.5"/>
+                    <BlurFilter blurX="0" blurY="15"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer3">
+                  <matrix>
+                    <Matrix a="1.61251831054688" d="1.61251831054688" tx="-13.6" ty="-29.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25"/>
+                    <GlowFilter blurX="25" blurY="25" color="#999999" inner="true" knockout="true" quality="2"/>
+                    <BlurFilter blurX="0" blurY="50" quality="2"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4 copy" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer1" centerPoint3DX="-31.7" centerPoint3DY="-17.6">
+                  <matrix>
+                    <Matrix tx="-18.05" ty="-52.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="12" blurY="12" quality="2"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer1" centerPoint3DX="-36.7" centerPoint3DY="-10.6">
+                  <matrix>
+                    <Matrix a="2.06951904296875" d="2.06951904296875" tx="0.75" ty="-92.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter quality="2"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Layer1" centerPoint3DX="-36.7" centerPoint3DY="-10.6">
+                  <matrix>
+                    <Matrix a="2.06951904296875" d="2.06951904296875" tx="0.75" ty="-92.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter quality="2"/>
+                    <BlurFilter blurX="0" blurY="0"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

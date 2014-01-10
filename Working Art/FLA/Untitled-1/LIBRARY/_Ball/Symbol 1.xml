@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_Ball/Symbol 1" itemID="52b0d83f-00000269" lastModified="1387387407" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-37 -202[-67 -148 -132 -118!-132 -118[-196 -89 -258 -100!-258 -100[-317 -109 -338 -155!-338 -155[-359 -201 -329 -255!-329 -255[-297 -308 -233 -337!-233 -337[-168 -367 -108 -357!-108 -357[-46 -345 -25 -299!-25 -299[-4 -253 -37 -202"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-114 -248[-130 -203 -176 -171!-176 -171[-221 -140 -271 -141!-271 -141[-317 -142 -339 -175!-339 -175[-362 -209 -347 -253!-347 -253[-328 -298 -283 -329!-283 -329[-237 -361 -190 -360!-190 -360[-141 -360 -118 -326!-118 -326[-96 -293 -114
+ -248"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="_Ball/Ball" centerPoint3DY="-1">
+                  <matrix>
+                    <Matrix ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,256 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Smoke" itemID="52d08028-000006e8" lastModified="1389396063">
+  <timeline>
+    <DOMTimeline name="Smoke" currentFrame="12">
+      <layers>
+        <DOMLayer name="Smoke" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0000.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0001.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0002.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0003.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0004.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0005.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0006.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0007.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0008.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0009.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0010.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0011.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0012.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0022.png">
+                  <matrix>
+                    <Matrix tx="628.15" ty="97"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0013.png">
+                  <matrix>
+                    <Matrix tx="141.35" ty="67.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0013.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0014.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0015.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0016.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0017.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0018.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0019.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0020.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0021.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0022.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0023.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0024.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="SMoke_ANI/Smoke_0025.png">
+                  <matrix>
+                    <Matrix tx="-117.05" ty="-180.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

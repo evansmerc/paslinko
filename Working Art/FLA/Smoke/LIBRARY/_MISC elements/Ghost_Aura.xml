@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_MISC elements/Ghost_Aura" itemID="52b3d3f8-000005a8" lastModified="1387516920">
+  <timeline>
+    <DOMTimeline name="Ghost_Aura">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!290 -290[410 -170 410 0!410 0[410 170 290 290!290 290[170 410 0 410!0 410[-170 410 -290 290!-290 290[-410 170 -410 0!-410 0[-410 -170 -290 -290!-290 -290[-170 -410 0 -410!0 -410[170 -410 290 -290"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
